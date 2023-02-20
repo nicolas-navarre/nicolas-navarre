@@ -34,9 +34,11 @@ ex-Ante LCA - evaluation of new technoogies to facilitate a Circular Economy
 - Soft skills 
 Presenting (frequent lecturer @BSc and MSc level, conferences) 
 Writing - manuscript published in high impact journals and EC reports 
+Data visulization
 
 
 - Data Analyss Skills 
+
 
 
 
