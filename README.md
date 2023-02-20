@@ -26,6 +26,20 @@ NBA LUKA SPECIAL (MAYBE MAKE AN ARTICLE?)
 - Banner 
 CHECK REDDIT DATAISBEAUTIFUL TEMP POST (BUILD & INCLUDE SCRIPT)
 
+- Conceptual skills
+Spatial & dynamic MFA - global to microbial scale
+EEMRIO - moonetary flows through the economy 
+ex-Ante LCA - evaluation of new technoogies to facilitate a Circular Economy
+
+- Soft skills 
+Presenting (frequent lecturer @BSc and MSc level, conferences) 
+Writing - manuscript published in high impact journals and EC reports 
+
+
+- Data Analyss Skills 
+
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
