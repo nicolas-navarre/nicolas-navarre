@@ -32,12 +32,16 @@ EEMRIO - moonetary flows through the economy
 ex-Ante LCA - evaluation of new technoogies to facilitate a Circular Economy
 
 - Soft skills 
-Presenting (frequent lecturer @BSc and MSc level, conferences) 
+Presenting - (frequent lecturer @BSc and MSc level, conferences) 
 Writing - manuscript published in high impact journals and EC reports 
+Teaching - leading workshops for students, developing instructional materials and curriculums
+Collaboration - Frequent multi-disciplinary work combining microbiology, food systems, economic analysis, plastic waste, spatial analysis
+Superivion of MSc thesis work 
 Data visulization
 
 
 - Data Analyss Skills 
+https://github.com/ttoddfox/python-package-list
 
 
 
