@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-![alt text](https://github.com/nicolas-navarre/read-me-assets/blob/main/fxr9.gif)
-
 
 <!--
 ![alt text](https://github.com/nicolas-navarre/read-me-assets/blob/main/Screenshot%202023-02-20%20at%2010.54.47.png?raw=true)
+![alt text](https://github.com/nicolas-navarre/read-me-assets/blob/main/fxr9.gif)
+
 **nicolas-navarre/nicolas-navarre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
