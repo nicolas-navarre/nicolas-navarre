@@ -9,6 +9,24 @@
 
 Here are some ideas to get you started:
 
+- Work
+EAT LANCET (PUBLISHED)
+GLOBAL PLASTIC (ON GOING)
+GLOBAL PLATIC (PORTS)
+SVM - PLASTIC PACKAGING INTENSITY (PUBLISHED)
+SVM - FATE MODELLING (PUBLISHED)
+COPPER (MSc Thesis)
+DAC (ON GOING)
+EEMRIO SUBNATIONAL (ON GOING)
+
+- Fun
+NBA MVP (MAYBE MAKE AN ARTICLE?) 
+NBA LUKA SPECIAL (MAYBE MAKE AN ARTICLE?)
+
+- Banner 
+CHECK REDDIT DATAISBEAUTIFUL TEMP POST (BUILD & INCLUDE SCRIPT)
+
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
