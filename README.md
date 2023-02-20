@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![alt text]([http://url/to/img.png](https://raw.githubusercontent.com/nicolas-navarre/read-me-assets/main/Screenshot%202023-02-20%20at%2010.54.47.png?token=GHSAT0AAAAAAB7BFYMHQPJIQ5MBQYGMXSHQY7TVQQA))
+
 <!--
 **nicolas-navarre/nicolas-navarre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
