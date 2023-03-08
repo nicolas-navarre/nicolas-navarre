@@ -1,6 +1,6 @@
 <img src="https://github.com/nicolas-navarre/read-me-assets/blob/main/temp_noloop.gif" width="120%" />
 
-Hi there 👋, I am PhD Researcher using data analysis and systems modelling to better understand humanity's impact on the Earth.
+Hi there 👋, I am PhD Researcher using data analysis and systems modelling to better understand humanity's impact on the Earth. I have published my work in multiple Q1 scientific journals in addition to contributing to European Commission reports. All models used in my work is kept open-source and available for download in my github repositories. 
 
 Recent publications:
 - [Producing all our food nationally: is it even possible?](https://www.universiteitleiden.nl/en/news/2023/03/producing-all-our-food-nationally-is-it-even-possible)
