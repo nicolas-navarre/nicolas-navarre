@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-![alt text](https://github.com/nicolas-navarre/read-me-assets/blob/main/temp.gif)
-
+<img src="https://user-images.githubusercontent.com/link-to-your-image.png](https://github.com/nicolas-navarre/read-me-assets/blob/main/temp.gif" width="100%" />
 <!--
 ![alt text](https://github.com/nicolas-navarre/read-me-assets/blob/main/Screenshot%202023-02-20%20at%2010.54.47.png?raw=true)
+![alt text](https://github.com/nicolas-navarre/read-me-assets/blob/main/temp.gif)
 
 **nicolas-navarre/nicolas-navarre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
