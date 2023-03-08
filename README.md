@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://github.com/nicolas-navarre/read-me-assets/blob/main/temp.gif" width="100%" />
+<img src="https://github.com/nicolas-navarre/read-me-assets/blob/main/temp.gif" width="120%" />
 <!--
 ![alt text](https://github.com/nicolas-navarre/read-me-assets/blob/main/Screenshot%202023-02-20%20at%2010.54.47.png?raw=true)
 ![alt text](https://github.com/nicolas-navarre/read-me-assets/blob/main/temp.gif)
