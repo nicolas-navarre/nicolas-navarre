@@ -2,7 +2,7 @@
 
 Hi there 👋, I am PhD Researcher using data analysis and systems modelling to better understand humanity's impact on the Earth.
 
-Recent publications
+Recent publications:
 
 - [Producing all our food nationally: is it even possible?](https://www.universiteitleiden.nl/en/news/2023/03/producing-all-our-food-nationally-is-it-even-possible)
 - [Kilotonnes of 'recycled' Dutch plastic waste end up in the sea](https://www.universiteitleiden.nl/en/news/2022/07/many-kilotons-of-recycled-dutch-plastic-waste-end-up-in-the-sea)
