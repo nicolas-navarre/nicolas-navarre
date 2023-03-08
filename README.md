@@ -1,6 +1,6 @@
 <img src="https://github.com/nicolas-navarre/read-me-assets/blob/main/temp_noloop.gif" width="120%" />
 
-I'm PhD Researcher using data analysis and systems modelling to better understand humanity's impact on the Earth.
+Hi there 👋, I am PhD Researcher using data analysis and systems modelling to better understand humanity's impact on the Earth.
 
 <!--
 ![alt text](https://github.com/nicolas-navarre/read-me-assets/blob/main/Screenshot%202023-02-20%20at%2010.54.47.png?raw=true)
