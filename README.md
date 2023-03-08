@@ -6,6 +6,8 @@ Recent publications
 
 - [Producing all our food nationally: is it even possible?](https://www.universiteitleiden.nl/en/news/2023/03/producing-all-our-food-nationally-is-it-even-possible)
 - [Kilotonnes of 'recycled' Dutch plastic waste end up in the sea](https://www.universiteitleiden.nl/en/news/2022/07/many-kilotons-of-recycled-dutch-plastic-waste-end-up-in-the-sea)
+- [Prospective LCA methodology for Novel and Emerging Technologies for BIO-based products](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CgN-qmgAAAAJ&citation_for_view=CgN-qmgAAAAJ:9yKSN-GCB0IC)
+- [How can LCA include prospective elements to assess emerging technologies and system transitions?](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CgN-qmgAAAAJ&citation_for_view=CgN-qmgAAAAJ:2osOgNQ5qMEC)
 
 <!--
 ![alt text](https://github.com/nicolas-navarre/read-me-assets/blob/main/Screenshot%202023-02-20%20at%2010.54.47.png?raw=true)
