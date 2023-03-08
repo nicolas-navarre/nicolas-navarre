@@ -4,7 +4,7 @@ Hi there 👋, I am PhD Researcher using data analysis and systems modelling to 
 
 Recent publications
 
--[Producing all our food nationally: is it even possible?] (https://www.universiteitleiden.nl/en/news/2023/03/producing-all-our-food-nationally-is-it-even-possible)
+- [Producing all our food nationally: is it even possible?] (https://www.universiteitleiden.nl/en/news/2023/03/producing-all-our-food-nationally-is-it-even-possible)
 
 <!--
 ![alt text](https://github.com/nicolas-navarre/read-me-assets/blob/main/Screenshot%202023-02-20%20at%2010.54.47.png?raw=true)
