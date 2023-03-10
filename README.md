@@ -33,8 +33,8 @@ I am particuarly interested in research analysis of the food, energy, and plasti
   - **_Python_** - pandas, geopandas, numpy, scipy, rasterio, API interaction, and more
   - **_Data analysis_** - collection, processing, validation, visualization
   - **_Material flow analysis_** - spatial and dynamic assessment of anthropogenic and natural flows
-  - **_Systems modelling_** - microbial/chemical transport to global scale modeling of systems including feedback loops and temporal variations
-  - **_Life Cycle Analysis_** - evaluation of new technoogies to facilitate a Circular Economy (ex-ante) and identification of hotspots in existing technologies (ex-post)
+  - **_Systems modelling_** - microbial/chemical transport to global scale modeling of systems
+  - **_Life Cycle Analysis_** - evaluation of new technoogies to facilitate a circular economy (ex-ante) and identification of hotspots in existing technologies (ex-post)
 
 - Soft skills
   - **_Bilingual_** - French and English (dual French-American citizenship)
