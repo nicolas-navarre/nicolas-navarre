@@ -38,8 +38,8 @@ I am particuarly interested in analyzing the food, energy, and plastic waste sys
 
 - Soft skills
   - **_Bilingual_** - French and English (dual French-American citizenship)
-  - **_Communication_** - lecturer in multiple Master and Bachelor programmes, presenter in academic conferences, and workshop lead
-  - **_Education_** - developing instructional materials and curriculums 
+  - **_Communication_** - lecturer in Master and Bachelor programmes, presenter in academic conferences
+  - **_Education_** - developing instructional materials (lectures, workshops, etc...) and curriculums 
   - **_Writing_** - drafting of academic manuscript, scientific reports, press releases
   - **_Collaboration_** - frequent multi-disciplinary work combining environmental assessments, policy analysis, and economic analysis
 
