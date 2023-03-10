@@ -23,7 +23,7 @@ Hi there 👋, I am PhD Researcher using data analysis and systems modelling to 
   - **_Python_** - pandas, geopandas, numpy, scipy, rasterio, API interaction, and more
   - **_Data analysis_** - collection, processing, validation, visualization
   - **_Material flow analysis_** - spatial and dynamic assessment of anthropogenic and natural flows
-  - **_Systems modelling_** - microbial to global scale) 
+  - **_Systems modelling_** - microbial to global scale modeling of systems including feedback loops and temporal variations
   - **_Life Cycle Analysis_** - evaluation of new technoogies to facilitate a Circular Economy (ex-ante) and identification of hotspots in existing technologies (ex-post)
 
 - Soft skills
