@@ -2,14 +2,14 @@
 
 Hi there 👋, I am PhD Researcher using data analysis and systems modelling to better understand humanity's impact on the Earth. I have published my work in multiple Q1 scientific journals in addition to contributing to European Commission reports. All models used in my work are kept open-source and available for download in my github repositories. 
 
-<h3>**Recent publications**</h3>
+<h3> **Recent publications** </h3>
 
 - [Producing all our food nationally: is it even possible?](https://www.universiteitleiden.nl/en/news/2023/03/producing-all-our-food-nationally-is-it-even-possible)
 - [Kilotonnes of 'recycled' Dutch plastic food packaging waste end up in the sea](https://www.universiteitleiden.nl/en/news/2022/07/many-kilotons-of-recycled-dutch-plastic-waste-end-up-in-the-sea)
 - [Prospective LCA methodology for Novel and Emerging Technologies for BIO-based products](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CgN-qmgAAAAJ&citation_for_view=CgN-qmgAAAAJ:9yKSN-GCB0IC)
 - [How can LCA include prospective elements to assess emerging technologies and system transitions?](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CgN-qmgAAAAJ&citation_for_view=CgN-qmgAAAAJ:2osOgNQ5qMEC)
 
-<h3>**Ongoing work**</h3>
+<h3> **Ongoing work** </h3>
 
 - Transition towards a sustainable food system
 - Global estimates of plastic debris to the aquatic environment
