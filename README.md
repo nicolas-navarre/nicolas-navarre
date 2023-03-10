@@ -10,6 +10,7 @@ I am particuarly interested in research analysis of the food, energy, and plasti
 - _How does trade affect our understanding of the role high-income countries play in plastic pollution?_
 - _How do national food production policies affect food sufficiency and consumption patterns in countries?_
 - _How would food system policies affect the impact of the food system?_
+- _How can governments support a transition towards a circular economy?_
 
 <h1> Academic work </h1>
 <h3>Recent publications</h3>
