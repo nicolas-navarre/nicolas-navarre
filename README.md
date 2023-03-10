@@ -17,8 +17,18 @@ Hi there 👋, I am PhD Researcher using data analysis and systems modelling to 
 - Disaggregating Input-Output tables to sub-national levels to uncover new circular economy opportunities
 - The role of negative emission technologies in mitigating global carbon emissions 
 
+<h1> Skills and competencies </h1>
+- Tools and hard skills 
+  - Python (pandas, geopandas, numpy, scipy, rasterio, and more)
+  - Material flow analysis (spatial and dynamic)
+  - Systems modelling (microbial to global scale) 
+  - Life Cycle Analysis (ex-ante, ex-post)
 
-
+- Soft skills
+  - Communication - lecturer in multiple Master and Bachelor programmes, presenter in academic conferences, and workshop lead
+  - Teaching - developing instructional materials and curriculums
+  - Writing - 
+  - Collaboration - frequent multi-disciplinary work combining systems modelling, spatial analysis, economic analysis, policy analysis, waste management,  microbiology, food system
 <!--
 ![alt text](https://github.com/nicolas-navarre/read-me-assets/blob/main/Screenshot%202023-02-20%20at%2010.54.47.png?raw=true)
 ![alt text](https://github.com/nicolas-navarre/read-me-assets/blob/main/temp.gif)
@@ -53,7 +63,7 @@ ex-Ante LCA - evaluation of new technoogies to facilitate a Circular Economy
 Presenting - (frequent lecturer @BSc and MSc level, conferences) 
 Writing - manuscript published in high impact journals and EC reports 
 Teaching - leading workshops for students, developing instructional materials and curriculums
-Collaboration - Frequent multi-disciplinary work combining microbiology, food systems, economic analysis, plastic waste, spatial analysis
+Collaboration - Frequent multi-disciplinary work combining microbiology, food systems, economic analysis, policy analysis,waste management, spatial analysis
 Superivion of MSc thesis work 
 Data visulization
 
