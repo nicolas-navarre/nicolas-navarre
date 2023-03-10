@@ -48,11 +48,14 @@ I am particuarly interested in analyzing the food, energy, and plastic waste sys
 I am an avid basketball fan, closely following the NBA. On top of enjoying the sport, it also provides a unique intergration of data analytics, creating the perfect environment to channel my personal and professional interests. I have spent some of my free time developing algorithms and scripts like predicting the winners of end-of-season awards or contextualizing unique historical feats. If the NBA or any NBA teams would like to collaborate, I'd be more than happy to do so. 
 
 - [What if the MVP was awarded based on a 3-2-1 points system after each game?](https://github.com/nicolas-navarre/nba-mvp)
-- The LeTease: 'LeBron always leaving us 1 assist or 1 rebound shy of a triple double.' How many playoff LeTeases have LeBron and the rest of the top 10 triple double leaders gotten?
+- [The Luka Special: From now on, the Luka Special is when a player has the same amount of points as entire team by halftime.](https://github.com/nicolas-navarre/luka-special)
 
 <!--
 ![alt text](https://github.com/nicolas-navarre/read-me-assets/blob/main/Screenshot%202023-02-20%20at%2010.54.47.png?raw=true)
 ![alt text](https://github.com/nicolas-navarre/read-me-assets/blob/main/temp.gif)
+
+- The LeTease: 'LeBron always leaving us 1 assist or 1 rebound shy of a triple double.' How many playoff LeTeases have LeBron and the rest of the top 10 triple double leaders gotten?
+
 ### Hi there 👋
 **nicolas-navarre/nicolas-navarre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
