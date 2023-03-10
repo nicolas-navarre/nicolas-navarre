@@ -1,4 +1,4 @@
-<img src="https://github.com/nicolas-navarre/read-me-assets/blob/main/temp_noloop.gif" width="120%" />
+<img src="https://github.com/nicolas-navarre/read-me-assets/blob/main/temp_noloop.gif" width="100%" />
 
 Hi there 👋, I am PhD Researcher using data analysis and systems modelling to better understand humanity's impact on the Earth. I have published my work in multiple Q1 scientific journals in addition to contributing to European Commission reports. All models used in my work are kept open-source and available for download in my github repositories. 
 
