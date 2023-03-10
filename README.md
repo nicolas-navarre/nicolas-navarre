@@ -29,9 +29,9 @@ Hi there 👋, I am PhD Researcher using data analysis and systems modelling to 
 - Soft skills
   - Bilingual - French and English (dual French-American citizenship)
   - Communication - lecturer in multiple Master and Bachelor programmes, presenter in academic conferences, and workshop lead
-  - Teaching - developing instructional materials and curriculums
-  - Writing - 
-  - Collaboration - frequent multi-disciplinary work combining systems modelling, spatial analysis, economic analysis, policy analysis, waste management,  microbiology, food system
+  - Education - developing instructional materials and curriculums 
+  - Writing - drafting of academic manuscript, scientific reports, press releases
+  - Collaboration - frequent multi-disciplinary work combining environmental assessments, policy analysis, and economic analysis
 <!--
 ![alt text](https://github.com/nicolas-navarre/read-me-assets/blob/main/Screenshot%202023-02-20%20at%2010.54.47.png?raw=true)
 ![alt text](https://github.com/nicolas-navarre/read-me-assets/blob/main/temp.gif)
@@ -39,6 +39,8 @@ Hi there 👋, I am PhD Researcher using data analysis and systems modelling to 
 **nicolas-navarre/nicolas-navarre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+systems modelling, spatial analysis, economic analysis, policy analysis, waste management,  microbiology, food system
 
 - Work
 EAT LANCET (PUBLISHED)
