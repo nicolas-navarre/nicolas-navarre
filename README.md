@@ -20,18 +20,18 @@ Hi there 👋, I am PhD Researcher using data analysis and systems modelling to 
 <h1> Skills and competencies </h1>
 
 - Tools and hard skills 
-  - **Python** - pandas, geopandas, numpy, scipy, rasterio, API interaction, and more
-  - **Data analysis** - collection, processing, validation, visualization
-  - **Material flow analysis** - spatial and dynamic assessment of anthropogenic and natural flows
-  - **Systems modelling** - microbial to global scale) 
-  - **Life Cycle Analysis** - evaluation of new technoogies to facilitate a Circular Economy (ex-ante) and identification of hotspots in existing technologies (ex-post)
+  - **_Python_** - pandas, geopandas, numpy, scipy, rasterio, API interaction, and more
+  - **_Data analysis_** - collection, processing, validation, visualization
+  - **_Material flow analysis_** - spatial and dynamic assessment of anthropogenic and natural flows
+  - **_Systems modelling_** - microbial to global scale) 
+  - **_Life Cycle Analysis_** - evaluation of new technoogies to facilitate a Circular Economy (ex-ante) and identification of hotspots in existing technologies (ex-post)
 
 - Soft skills
-  - **Bilingual** - French and English (dual French-American citizenship)
-  - **Communication** - lecturer in multiple Master and Bachelor programmes, presenter in academic conferences, and workshop lead
-  - **Education** - developing instructional materials and curriculums 
-  - **Writing** - drafting of academic manuscript, scientific reports, press releases
-  - **Collaboration** - frequent multi-disciplinary work combining environmental assessments, policy analysis, and economic analysis
+  - **_Bilingual_** - French and English (dual French-American citizenship)
+  - **_Communication_** - lecturer in multiple Master and Bachelor programmes, presenter in academic conferences, and workshop lead
+  - **_Education_** - developing instructional materials and curriculums 
+  - **_Writing_** - drafting of academic manuscript, scientific reports, press releases
+  - **_Collaboration_** - frequent multi-disciplinary work combining environmental assessments, policy analysis, and economic analysis
 <!--
 ![alt text](https://github.com/nicolas-navarre/read-me-assets/blob/main/Screenshot%202023-02-20%20at%2010.54.47.png?raw=true)
 ![alt text](https://github.com/nicolas-navarre/read-me-assets/blob/main/temp.gif)
