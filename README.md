@@ -20,8 +20,8 @@ Hi there 👋, I am PhD Researcher using data analysis and systems modelling to 
 <h1> Skills and competencies </h1>
 
 - Tools and hard skills 
-  - Python (pandas, geopandas, numpy, scipy, rasterio, and more)
-  - Data analysis
+  - Python (pandas, geopandas, numpy, scipy, rasterio, API interaction, and more)
+  - Data analysis (collection, processing, visualization)
   - Material flow analysis (spatial and dynamic)
   - Systems modelling (microbial to global scale) 
   - Life Cycle Analysis (ex-ante, ex-post)
