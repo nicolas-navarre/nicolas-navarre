@@ -2,6 +2,8 @@
 
 Hi there 👋, I am PhD Researcher using data analysis and systems modelling to better understand humanity's impact on the Earth. I have published my work in multiple Q1 scientific journals in addition to contributing to European Commission reports. All models used in my work are kept open-source and available for download in my github repositories. 
 
+My interests lye in exploring 
+
 <h1> Academic work </h1>
 <h3>Recent publications</h3>
 
@@ -23,7 +25,7 @@ Hi there 👋, I am PhD Researcher using data analysis and systems modelling to 
   - **_Python_** - pandas, geopandas, numpy, scipy, rasterio, API interaction, and more
   - **_Data analysis_** - collection, processing, validation, visualization
   - **_Material flow analysis_** - spatial and dynamic assessment of anthropogenic and natural flows
-  - **_Systems modelling_** - microbial to global scale modeling of systems including feedback loops and temporal variations
+  - **_Systems modelling_** - microbial/chemical transport to global scale modeling of systems including feedback loops and temporal variations
   - **_Life Cycle Analysis_** - evaluation of new technoogies to facilitate a Circular Economy (ex-ante) and identification of hotspots in existing technologies (ex-post)
 
 - Soft skills
