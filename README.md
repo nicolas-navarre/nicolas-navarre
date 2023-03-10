@@ -42,6 +42,14 @@ I am particuarly interested in analyzing the food, energy, and plastic waste sys
   - **_Education_** - developing instructional materials and curriculums 
   - **_Writing_** - drafting of academic manuscript, scientific reports, press releases
   - **_Collaboration_** - frequent multi-disciplinary work combining environmental assessments, policy analysis, and economic analysis
+
+<h1> Personal interests </h1>
+
+I am an avid basketball fan, closely following the NBA. On top of enjoying the sport, it also provides a unique intergration of data analytics, creating the perfect environment to channel my personal and professional interests. I have spent some of my free time developing algorithms and scripts like predicting the winners of end-of-season awards or contextualizing unique historical feats. If the NBA or any NBA teams would like to collaborate, I'd be more than happy to do so. 
+
+- What if the MVP was awarded based on a 3-2-1 points system after each game?
+- The LeTease: 'LeBron always leaving us 1 assist or 1 rebound shy of a triple double.' How many playoff LeTeases have LeBron and the rest of the top 10 triple double leaders gotten?
+
 <!--
 ![alt text](https://github.com/nicolas-navarre/read-me-assets/blob/main/Screenshot%202023-02-20%20at%2010.54.47.png?raw=true)
 ![alt text](https://github.com/nicolas-navarre/read-me-assets/blob/main/temp.gif)
