@@ -27,6 +27,7 @@ Hi there 👋, I am PhD Researcher using data analysis and systems modelling to 
   - Life Cycle Analysis (ex-ante, ex-post)
 
 - Soft skills
+  - Bilingual - French and English (dual French-American citizenship)
   - Communication - lecturer in multiple Master and Bachelor programmes, presenter in academic conferences, and workshop lead
   - Teaching - developing instructional materials and curriculums
   - Writing - 
