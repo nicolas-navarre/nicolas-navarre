@@ -18,6 +18,7 @@ Hi there 👋, I am PhD Researcher using data analysis and systems modelling to 
 - The role of negative emission technologies in mitigating global carbon emissions 
 
 <h1> Skills and competencies </h1>
+
 - Tools and hard skills 
   - Python (pandas, geopandas, numpy, scipy, rasterio, and more)
   - Material flow analysis (spatial and dynamic)
