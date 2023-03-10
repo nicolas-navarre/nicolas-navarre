@@ -2,7 +2,14 @@
 
 Hi there 👋, I am PhD Researcher using data analysis and systems modelling to better understand humanity's impact on the Earth. I have published my work in multiple Q1 scientific journals in addition to contributing to European Commission reports. All models used in my work are kept open-source and available for download in my github repositories. 
 
-I am particuarly interested in research analysis of the food, energy, and plastic waste systems at national and international scales. I explore how  changes to these systems can be incoporated into society to reduce the burden we place on planetary boundaries. I've largely carried out this work in academic institutions (Leiden University, TU Delft, and the Pennsylvania State University), in collaboration with intergovernmental institutes (Joint Research Center), and programmes such as the European Union's Climate Knowledge and Innovation Center.
+I am particuarly interested in research analysis of the food, energy, and plastic waste systems at national and international scales. I explore how  changes to these systems can be incoporated into society to reduce the burden we place on planetary boundaries. These changes can come from various lenses. I've largely carried out this work in academic institutions (Leiden University, TU Delft, and the Pennsylvania State University), in collaboration with intergovernmental institutes (Joint Research Center), and programmes such as the European Union's Climate Knowledge and Innovation Center.
+
+**Examples of questions I like to explore inlcude:**
+
+- _How will plastic packaging bans on fruits and vegetables affect food waste and plastic waste? Will the reduction in plastic production and waste be offset or negated by increased food waste?_
+- _How do national food production policies affect food sufficency and consumption patterns in countries?_
+- _How would food system policies affect the impact of the food system?_
+- _How does trade affect our understanding of the role high-income countries play in plastic pollution?_
 
 <h1> Academic work </h1>
 <h3>Recent publications</h3>
