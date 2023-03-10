@@ -2,6 +2,7 @@
 
 Hi there 👋, I am PhD Researcher using data analysis and systems modelling to better understand humanity's impact on the Earth. I have published my work in multiple Q1 scientific journals in addition to contributing to European Commission reports. All models used in my work are kept open-source and available for download in my github repositories. 
 
+<h1> Academic work </h1>
 <h3>Recent publications</h3>
 
 - [Producing all our food nationally: is it even possible?](https://www.universiteitleiden.nl/en/news/2023/03/producing-all-our-food-nationally-is-it-even-possible)
@@ -15,6 +16,8 @@ Hi there 👋, I am PhD Researcher using data analysis and systems modelling to 
 - Global estimates of plastic debris to the aquatic environment
 - Disaggregating Input-Output tables to sub-national levels to uncover new circular economy opportunities
 - The role of negative emission technologies in mitigating global carbon emissions 
+
+
 
 <!--
 ![alt text](https://github.com/nicolas-navarre/read-me-assets/blob/main/Screenshot%202023-02-20%20at%2010.54.47.png?raw=true)
