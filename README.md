@@ -35,6 +35,7 @@ I am particuarly interested in analyzing the food, energy, and plastic waste sys
   - **_Material flow analysis_** - spatial and dynamic assessment of anthropogenic and natural flows
   - **_Systems modelling_** - microbial/chemical transport to global scale modeling of systems
   - **_Life Cycle Analysis_** - evaluation of new technoogies to facilitate a circular economy (ex-ante) and identification of hotspots in existing technologies (ex-post)
+  - **_QGIS_** - geoprocessing tools, data management tools, vector and raster operations
 
 - Soft skills
   - **_Bilingual_** - French and English (dual French-American citizenship)
