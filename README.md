@@ -101,8 +101,13 @@ Data visulization
 https://github.com/ttoddfox/python-package-list
 
 
+What do I offer? A deep understanding of sustainability evaluation tools including
+  - Life cycle Assessment (LCA)
+  - Material flow Analysis (MFA) 
+  - System Dynamics
 
-
+Knowledge of sustainability 
+  - 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
