@@ -15,7 +15,7 @@ I am particuarly interested in analyzing the food, energy, and plastic waste sys
 - _How would food system policies affect the impact of the food system?_
 - _How can governments support a transition towards a circular economy?_
 
-**Previous Experience**
+**Work Experience**
 - Environmental Consulting - 2 years 
 - Postgraduate academic research - 4 years
 
