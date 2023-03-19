@@ -8,6 +8,7 @@ I am particuarly interested in analyzing the food, energy, and plastic waste sys
 
 **Examples of questions I like to explore inlcude:**
 
+- _What role does diets play in moving towards a sustainable food system?_
 - _How will plastic packaging bans on fruits and vegetables affect food and plastic waste? Will the reduction in plastic production and waste be offset or negated by increased food waste?_
 - _How does trade affect our understanding of the role high-income countries play in plastic pollution?_
 - _How do national food production policies affect food sufficiency and consumption patterns in countries?_
