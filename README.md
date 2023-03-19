@@ -1,5 +1,7 @@
 <img src="https://github.com/nicolas-navarre/read-me-assets/blob/main/temp_noloop.gif" width="100%" />
 
+<h1> Data driven sustainability </h1>
+
 Hi there 👋, I am PhD Researcher using data analysis and systems modelling to better understand humanity's impact on the Earth. I have published my work in multiple Q1 scientific journals in addition to contributing to European Commission reports. All models used in my work are kept open-source and available for download in my github repositories. 
 
 I am particuarly interested in analyzing the food, energy, and plastic waste systems at national and international scales. I explore how changes to these systems can be incoporated into society to evaluate and reduce the burden we place on planetary boundaries. I've largely carried out this work in academic institutes, in collaboration with intergovernmental institutes (Joint Research Center), and programmes such as the European Union's Climate Knowledge and Innovation Center.
