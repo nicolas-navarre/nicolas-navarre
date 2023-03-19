@@ -48,7 +48,7 @@ I am particuarly interested in analyzing the food, energy, and plastic waste sys
 
 <h1> Personal interests </h1>
 
-I am an avid basketball fan, closely following the NBA. On top of enjoying the sport, it also provides a unique intergration of data analytics, creating the perfect environment to channel my personal and professional interests. I have spent some of my free time developing algorithms and scripts like predicting the winners of end-of-season awards or contextualizing unique historical feats. If the NBA or any NBA teams would like to collaborate, I'd be more than happy to do so. 
+I am an avid basketball fan, closely following the NBA. On top of enjoying the sport, it also provides a unique integration of data analytics, creating the perfect environment to channel my personal and professional interests. I have spent some of my free time developing algorithms and scripts like predicting the winners of end-of-season awards or contextualizing unique historical feats. If the NBA or any NBA teams would like to collaborate, I'd be more than happy to do so. 
 
 - [What if the MVP was awarded based on a 3-2-1 points system after each game?](https://github.com/nicolas-navarre/nba-mvp)
 - [The Luka Special: From now on, the Luka Special is when a player has the same amount of points as entire team by halftime.](https://github.com/nicolas-navarre/luka-special)
