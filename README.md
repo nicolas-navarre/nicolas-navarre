@@ -17,7 +17,7 @@ I am particuarly interested in analyzing the food, energy, and plastic waste sys
 
 **Work Experience**
 - Environmental Consulting - 2 years 
-- Postgraduate academic research - 4 years
+- Postgraduate academic research - 5 years
 
 <h1> Academic work </h1>
 <h3>Recent publications</h3>
