@@ -29,8 +29,10 @@ I am particuarly interested in analyzing the food, energy, and plastic waste sys
 
 <h3>Ongoing work</h3>
 
-- Transition towards a sustainable food system
 - Global estimates of plastic debris to the aquatic environment
+- Emissions of ocean debris from high-income plastic waste exports
+- Interactions between formal and informal plastic waste collection in South and Southeast Asia 
+- Transition towards a sustainable food system
 - Disaggregating Input-Output tables to sub-national levels to uncover new circular economy opportunities
 - The role of negative emission technologies in mitigating global carbon emissions 
 
